@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**RahulSharma257277/RahulSharma257277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**257277/257277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RahulSharma257277">
+    <img src="https://komarev.com/ghpvc/?username=257277">
 </a>
-<a href="https://github.com/RahulSharma257277?tab=followers"><img src="https://img.shields.io/github/followers/RahulSharma257277?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/257277?tab=followers"><img src="https://img.shields.io/github/followers/257277?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
@@ -66,16 +66,16 @@ Here are some ideas to get you started:
 <p align="center">
 <h2> 📊 Weekly Stats </h2>
  <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=RahulSharma257277&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Rahul Sharma Streak">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=257277&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Rahul Sharma Streak">
  </a>
 </p>
 
 ## 📊 My Github Stats
-![Rahul Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahulSharma257277&show_icons=true&theme=tokyonight)
+![Rahul Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=257277&show_icons=true&theme=tokyonight)
   <br/>
 ## 📊 Language Used
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSharma257277&theme=tokyonight)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=257277&theme=tokyonight)
 
 <br/>
 
