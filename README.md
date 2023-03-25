@@ -32,16 +32,15 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👯 I've done 3 Individual and 1 Group Projects from scratch.
-- Blue Apron Clone **[Github Repo](https://github.com/257277/Blue_apron_Full_clone) [Deployed]()**
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express, MongoDB**
 
 
 - 📫 How to reach me **rahulshrama.4101997@gmail.com**
 
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1VjZdzOmaZdTgBZMGixAweL2isBoYYuV0/view?usp=share_link)**
+- 📑  Know more about me **[Portfolio](https://257277.github.io/)**
 <br/>
- 📑  Know more about me **[Portfolio](https://257277.github.io/)**
+
  <br/>
 ## 🚀 Languages/Frameworks:
 
@@ -93,4 +92,3 @@ Here are some ideas to get you started:
 <a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
-
