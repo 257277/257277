@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👯 I've done 3 Individual and 1 Group Projects from scratch.
-- Projects will be available soon
+- Blue Apron Clone **[Github Repo](https://github.com/257277/Blue_apron_Full_clone) [Deployed]()**
 - 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express, MongoDB**
 
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1VjZdzOmaZdTgBZMGixAweL2isBoYYuV0/view?usp=share_link)**
 <br/>
-
+ 📑  Know more about me **[Portfolio](https://257277.github.io)**
 ## 🚀 Languages/Frameworks:
 
 <br/>
