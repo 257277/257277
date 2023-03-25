@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://gpvc.arturio.dev/257277">
     <img src="https://komarev.com/ghpvc/?username=257277">
 </a>
 <a href="https://github.com/257277?tab=followers"><img src="https://img.shields.io/github/followers/257277?label=Followers&style=social" alt="GitHub Badge"></a>
