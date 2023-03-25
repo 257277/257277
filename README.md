@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **rahulshrama.4101997@gmail.com**
 
-- 📑  Know about my experiences **[Resume]()**
+- 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1VjZdzOmaZdTgBZMGixAweL2isBoYYuV0/view?usp=share_link)**
 <br/>
 
 ## 🚀 Languages/Frameworks:
