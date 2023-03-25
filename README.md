@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - 📑  Know about my experiences **[Resume](https://drive.google.com/file/d/1VjZdzOmaZdTgBZMGixAweL2isBoYYuV0/view?usp=share_link)**
 <br/>
  📑  Know more about me **[Portfolio](https://257277.github.io)**
+ <br/>
 ## 🚀 Languages/Frameworks:
 
 <br/>
